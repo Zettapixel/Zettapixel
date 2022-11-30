@@ -21,7 +21,7 @@ Hello, I'm Ignacio Palominos (Zettapixel). I'm a Chilean living in Japan and stu
 [![Flutter / Dart](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)](#)
 [![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)](#)
-[![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)](#)
 
 ## Frameworks
 
