@@ -3,7 +3,7 @@
 Hello, I'm Ignacio Palominos (Zettapixel). I'm a Chilean living in Japan and student of computer science in Kyoto Computer Gakuin.
 
 - 💻 I love music and computer science.
-- 👨‍🎓 I'm currently working on my final project for my school.
+- 👨‍🎓 I'm a software engineer in Japan.
 - 🌱 I'm currently learning Flutter / Dart.
 - 💾 I'm working hard to become a good programmer.
 
