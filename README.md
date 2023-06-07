@@ -1,6 +1,6 @@
 ### こんにちは！
 
-Hello, I'm Ignacio Palominos (Zettapixel). I'm a Chilean living in Japan and student of computer science in Kyoto Computer Gakuin.
+Hello, I'm Ignacio Palominos (Zettapixel). I'm a Chilean living in Japan, graduated in Computer Science from Kyoto Computer Gakuin.
 
 - 💻 I love music and computer science.
 - 👨‍🎓 I'm a software engineer in Japan.
